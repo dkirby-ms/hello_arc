@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Hybrid Cloud for Financial Services!
+      value: Hybrid Cloud for Financial Services is SUPERB
