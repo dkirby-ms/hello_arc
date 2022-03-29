@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Hello Arc Application on Kubernetes!
+          value: Hello Dell! We Love you and Azure Stack HCI!
